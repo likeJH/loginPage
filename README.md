@@ -1,4 +1,4 @@
 ## Login Page
 
-- LoginPage(Clone_Coding)
+- LoginPage(CloneCoding)
 - https://likejh.github.io/loginPage/
